@@ -2,7 +2,7 @@
 Coursera test repository 
 <html>
 <head>
-	<title>Hello Cousera</title>
+<title>Hello Cousera</title>
 </head>
 <body>
 <h1>Hello Coursera</h1>
